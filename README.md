@@ -1,7 +1,5 @@
 # AirBnB_clone
 
-![Alt Text](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20200709%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200709T092806Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5b75e9f7cac327c017613ae647267968961d39c74027ef340e157e6bd63e018c)
-
 ## Background Context
 
 ### First step: Write a command interpreter to manage your AirBnB objects.
