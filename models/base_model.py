@@ -5,6 +5,7 @@ from datetime import datetime
 from models import storage
 import uuid
 
+
 class BaseModel():
     '''class BaseModel defines common attributes/methods for other classes'''
 
