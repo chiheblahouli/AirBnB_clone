@@ -18,6 +18,7 @@
          border: 1px solid #FF5A5F;
          border-radius: 4px;
          text-align: center;
+         position: relative;
         }
 
 .places .article h2{
@@ -36,10 +37,11 @@
                  font-size: 30px;
                  text-align: center;
                  display: flex;
+                 position: absolute;
                  justify-content: center;
                  margin-left: auto;
-                 top: 0px;
-                 right: 0px;
+                 top: 15px;
+                 right: 15px;
                }
 
 .price_by_night h3{
