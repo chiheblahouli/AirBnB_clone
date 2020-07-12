@@ -1,11 +1,17 @@
 footer{
         display: flex;
+        position: fixed;
         background-color: #FFF;
         height: 60px;
         width: 100%;
         bottom: 0;
         left: 0;
-        position: fixed;
         border-top: 1px solid #CCCCCC;
-        text-align: center;
+        position: fixed;
      }
+
+
+p{
+   margin: auto;
+   text-align: center; 
+ }
